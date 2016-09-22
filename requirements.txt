@@ -1,0 +1,9 @@
+dj-database-url==0.4.1
+Django==1.9.8
+gunicorn==19.6.0
+psycopg2==2.6.2
+pyactiveresource==2.1.2
+PyYAML==3.12
+ShopifyAPI==2.1.7
+six==1.10.0
+whitenoise==3.2
